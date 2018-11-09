@@ -3,7 +3,6 @@
 Simple, object-oriented registration for Hapi Routes, Methods, and Handlers
 
 [![npm](https://img.shields.io/npm/v/hapi-registrar.svg?style=flat-square)][npm]
-[![greenkeeper](https://badges.greenkeeper.io/iainreid820/hapi-registrar.svg)][greenkeeper]
 [![travis](https://img.shields.io/travis/iainreid820/hapi-registrar/master.svg?style=flat-square)][travis]
 
 ### Plugin description
