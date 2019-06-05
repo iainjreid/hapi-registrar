@@ -34,11 +34,11 @@
   "dependencies": {
     "ramda": "^0.26.0"
   },
+  "devDependencies": {
+    "prettier": "^1.13.5"
+  },
   "prettier": {
     "printWidth": 120,
     "proseWrap": "always"
-  },
-  "devDependencies": {
-    "prettier": "^1.13.5"
   }
 }
