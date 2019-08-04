@@ -10,7 +10,7 @@
     "prettier": "prettier --write \"{,!(node_modules)/}**/*.{js,json,md}\"",
     "test": "echo \"Warn: no test specified\""
   },
-  "author": "Iain Reid <iainreid382@gmail.com>",
+  "author": "Iain Reid <iainreid382@gmail.com> (https://chaff.land)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iainreid820/hapi-registrar.git"
